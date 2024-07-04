@@ -1,0 +1,14 @@
+D:\Yc\praktika\Homeworks\Hom7\obj\Debug\net8.0\Hom7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yc\praktika\Homeworks\Hom7\obj\Debug\net8.0\Hom7.AssemblyInfoInputs.cache
+D:\Yc\praktika\Homeworks\Hom7\obj\Debug\net8.0\Hom7.AssemblyInfo.cs
+D:\Yc\praktika\Homeworks\Hom7\obj\Debug\net8.0\Hom7.csproj.CoreCompileInputs.cache
+D:\Yc\praktika\Homeworks\Hom7\bin\Debug\net8.0\Hom7.exe
+D:\Yc\praktika\Homeworks\Hom7\bin\Debug\net8.0\Hom7.deps.json
+D:\Yc\praktika\Homeworks\Hom7\bin\Debug\net8.0\Hom7.runtimeconfig.json
+D:\Yc\praktika\Homeworks\Hom7\bin\Debug\net8.0\Hom7.dll
+D:\Yc\praktika\Homeworks\Hom7\bin\Debug\net8.0\Hom7.pdb
+D:\Yc\praktika\Homeworks\Hom7\obj\Debug\net8.0\Hom7.dll
+D:\Yc\praktika\Homeworks\Hom7\obj\Debug\net8.0\refint\Hom7.dll
+D:\Yc\praktika\Homeworks\Hom7\obj\Debug\net8.0\Hom7.pdb
+D:\Yc\praktika\Homeworks\Hom7\obj\Debug\net8.0\Hom7.genruntimeconfig.cache
+D:\Yc\praktika\Homeworks\Hom7\obj\Debug\net8.0\ref\Hom7.dll
